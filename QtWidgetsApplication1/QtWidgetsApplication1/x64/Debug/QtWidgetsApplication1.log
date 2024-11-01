@@ -1,0 +1,5 @@
+﻿  uic QtWidgetsApplication1.ui
+  QtWidgetsApplication1.cpp
+  main.cpp
+  moc_QtWidgetsApplication1.cpp
+  QtWidgetsApplication1.vcxproj -> D:\桌面\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe
